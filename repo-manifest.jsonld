@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Pylons/pyramid_simpleform/commit/30c666418c7d344c01b77a63ee2d78a60cd852cb",
       "git:hexsha": "30c666418c7d344c01b77a63ee2d78a60cd852cb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
